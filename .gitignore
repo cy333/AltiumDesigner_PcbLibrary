@@ -1,4 +1,6 @@
+/*
 !*.SchLib
 !*.PcbDoc
 !*.SchDoc
 !*.PcbLib
+!*.LibPkg
